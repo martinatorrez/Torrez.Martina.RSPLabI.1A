@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1627480409 source:c:\users\chuchi\desktop\patu\recuperatoriosegundoparcial\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicletas.h"
+
+1627480608 source:c:\users\chuchi\desktop\patu\recuperatoriosegundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicletas.h"
+	"controller.h"
+	<string.h>
+	"parser.h"
+
+1627188213 source:c:\users\chuchi\desktop\patu\recuperatoriosegundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625667130 c:\users\chuchi\desktop\patu\recuperatoriosegundoparcial\linkedlist.h
+
+1627480409 source:c:\users\chuchi\desktop\patu\recuperatoriosegundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"bicicletas.h"
+
+1627480409 c:\users\chuchi\desktop\patu\recuperatoriosegundoparcial\bicicletas.h
+
+1627480409 source:c:\users\chuchi\desktop\patu\recuperatoriosegundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicletas.h"
+	"LinkedList.h"
+	"controller.h"
+
+1627478478 c:\users\chuchi\desktop\patu\recuperatoriosegundoparcial\controller.h
+	"LinkedList.h"
+
+1627475653 c:\users\chuchi\desktop\patu\recuperatoriosegundoparcial\parser.h
+	"LinkedList.h"
+
